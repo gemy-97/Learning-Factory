@@ -1,4 +1,4 @@
-typdef enum
+typdef enum numbers
 {
 		ZERO,
 		ONE,
@@ -13,7 +13,8 @@ typdef enum
 		TEN
 	
 	
-} numbers;
+}
+
 
 
 
