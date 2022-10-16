@@ -29,11 +29,6 @@ int main ()
 	int result = Multiply_Two_numbers(5,7);
 	
 	
-	// Another Way for multiply
-	// second comment 
-	
-	
-	
 	return 0;
 }
 
