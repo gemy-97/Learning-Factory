@@ -66,6 +66,5 @@ int Divide_Two_Numbers(int First_Num,int Second_Num)
 	int Result =0;
 	Result = First_Num/Second_Num;
 	return Result;
-	
-	
+		
 }
