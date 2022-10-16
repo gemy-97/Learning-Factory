@@ -26,7 +26,14 @@ int main ()
 {
 	
 	
-	int result = Multi[ply_Two_Numbers(5,7);
+	int result = Multiply_Two_numbers(5,7);
+	
+	
+	// Another Way for multiply
+	
+	
+	
+	
 	return 0;
 }
 
