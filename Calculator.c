@@ -25,7 +25,11 @@ int Divide_Two_Numbers(int First_Num,int Second_Num);
 int main ()
 {
 	
+	int result;
+	result = Add_Two_Numbers(5,7);
+	printf("%d", result1);
 	
+	printf("%d", result0);
 	
 	return 0;
 }
