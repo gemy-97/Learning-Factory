@@ -22,8 +22,33 @@ int Divide_Two_Numbers(int First_Num,int Second_Num);
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 int main ()
 {
+	
+	
+	
+	
+	
 	
 	
 	int result = Multiply_Two_numbers(5,7);
