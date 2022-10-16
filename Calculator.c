@@ -24,8 +24,12 @@ int Divide_Two_Numbers(int First_Num,int Second_Num);
 
 int main ()
 {
-	
-	
+	int i;
+	for (i=;i<=10;++i)
+	{
+		int result = Add_Two_Numbers(5,7);
+	}
+	printf("%d", result);
 	
 	return 0;
 }
