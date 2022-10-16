@@ -22,6 +22,26 @@ int Divide_Two_Numbers(int First_Num,int Second_Num);
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 int main ()
 {
 	int i;
@@ -36,13 +56,12 @@ int main ()
 	result = Add_Two_Numbers(5,7);
 	printf("%d", result1);
 	
-<<<<<<< HEAD
 	printf("%d", result0);
 	
+
 	
-	// another commit in this branch
-	//this comment for the git training 
->>>>>>> Calculate-for-loop
+	int result = Multiply_Two_numbers(5,7);
+	
 	return 0;
 }
 
