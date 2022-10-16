@@ -33,7 +33,8 @@ int main ()
 
 	
 	
-	// another commit in this branch 
+	// another commit in this branch
+	//this comment for the git training 
 	return 0;
 }
 
