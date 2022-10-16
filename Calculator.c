@@ -26,7 +26,7 @@ int main ()
 {
 	
 	
-	
+	int result = Multi[ply_Two_Numbers(5,7);
 	return 0;
 }
 
